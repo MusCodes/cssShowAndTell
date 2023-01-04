@@ -1,0 +1,61 @@
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  background-image: url('style.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: lightblue;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: cornflowerblue;
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  color: coral;
+  font-size: 38;
+  text-align: center;
+}
+
+h3 {
+  color: purple;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  color: yellow;
+  font-size: 30px;
+  text-align: center;
+}
+
+nav ul {
+  background-color: pink;
+  text-align: center;
+  font-size: 15px;
+  display: block
+  width: 100px;
+}
+
+nav ul li a {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav ol li {
+  color: green;
+  font-size: 30px;
+}
+
+footer {
+  background-color: black;
+  color: lightblue;
+  font-size: 20px;
+  
+}
